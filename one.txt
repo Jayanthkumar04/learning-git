@@ -8,6 +8,7 @@ restore check 2 brooo
 
 from central rrepo guysss
 
+<<<<<<< HEAD
 m1()
 {
 
@@ -21,3 +22,7 @@ m2()
 {
 work done
 }
+=======
+
+this is git branchingg
+>>>>>>> 86ec22de42f1c608f8909c5b5992e6d81e4dd56f

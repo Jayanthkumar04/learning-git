@@ -7,3 +7,17 @@ this is for restorre check
 restore check 2 brooo
 
 from central rrepo guysss
+
+m1()
+{
+
+remaining  4
+remaining  3
+remaining  2
+||
+||
+}
+m2()
+{
+work done
+}

@@ -7,18 +7,3 @@ this is for restorre check
 restore check 2 brooo
 
 from central rrepo guysss
-
-<<<<<<< Updated upstream
-m2()
-{
-done brro
-}
-
-=======
-m1()
-{
-one
-two
-done
-}
->>>>>>> Stashed changes
